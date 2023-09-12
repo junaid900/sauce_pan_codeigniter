@@ -1,0 +1,14 @@
+[2021-08-26 12:08:25][debug] 
+
+call back:{"appid":"wx68e97424cae0f3cc","bank_type":"OTHERS","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1316656601","nonce_str":"hhxtal7vevmpj3evhzeg6y51ltig3ycw","openid":"oWTCLwf4j7WYX-k1x-rtFiYmrnBE","out_trade_no":"527","result_code":"SUCCESS","return_code":"SUCCESS","sign":"735D7603C9FF9AC0AA9463FDD798E884D47369E3A199A7C636E3CC8A8B8D7221","time_end":"20210826120825","total_fee":"1","trade_type":"JSAPI","transaction_id":"4200001211202108263119845556"}
+[2021-08-26 12:08:25][debug] query:{"appid":"wx68e97424cae0f3cc","attach":[],"bank_type":"OTHERS","cash_fee":"1","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"Y","mch_id":"1316656601","nonce_str":"QV1ALxJoVEdTIwAz","openid":"oWTCLwf4j7WYX-k1x-rtFiYmrnBE","out_trade_no":"527","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"DA1768B9C592606B8B532615193979EB5D5725268A35661E7BD317752AB04419","time_end":"20210826120825","total_fee":"1","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200001211202108263119845556"}
+[2021-08-26 12:08:25][debug] 
+
+call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>
+[2021-08-26 12:21:17][debug] 
+
+call back:{"appid":"wx68e97424cae0f3cc","bank_type":"OTHERS","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1316656601","nonce_str":"eu42ldzkor65ehcsgmdpe7a697ubdgw3","openid":"oWTCLwf4j7WYX-k1x-rtFiYmrnBE","out_trade_no":"532","result_code":"SUCCESS","return_code":"SUCCESS","sign":"051F78B20373258AE9B46E71354F233D95A9ACCEF015A4230E0774C75DF178EC","time_end":"20210826122116","total_fee":"1","trade_type":"JSAPI","transaction_id":"4200001144202108263054928378"}
+[2021-08-26 12:21:17][debug] query:{"appid":"wx68e97424cae0f3cc","attach":[],"bank_type":"OTHERS","cash_fee":"1","cash_fee_type":"CNY","fee_type":"CNY","is_subscribe":"Y","mch_id":"1316656601","nonce_str":"lccdPyzO3lcVbhkn","openid":"oWTCLwf4j7WYX-k1x-rtFiYmrnBE","out_trade_no":"532","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"83B34864AE60709281745F7F28F714BF52BCC8C2E7D3159915C1FCFAA4FE62E2","time_end":"20210826122116","total_fee":"1","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200001144202108263054928378"}
+[2021-08-26 12:21:17][debug] 
+
+call back， return xml:<xml><return_code><![CDATA[SUCCESS]]></return_code><return_msg><![CDATA[OK]]></return_msg></xml>

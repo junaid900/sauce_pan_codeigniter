@@ -1,0 +1,9 @@
+[01-Sep-2022 09:51:02 UTC] PHP Fatal error:  Can't use method return value in write context in /home/mjcoderscom/public_html/sauce_pan/market/application/models/Db_model.php on line 795
+[01-Sep-2022 09:51:38 UTC] PHP Fatal error:  Can't use method return value in write context in /home/mjcoderscom/public_html/sauce_pan/market/application/models/Db_model.php on line 795
+[01-Sep-2022 09:51:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/mjcoderscom/public_html/sauce_pan/market/application/models/Db_model.php on line 795
+[01-Sep-2022 09:52:29 UTC] PHP Fatal error:  Can't use method return value in write context in /home/mjcoderscom/public_html/sauce_pan/market/application/models/Db_model.php on line 795
+[01-Sep-2022 09:52:31 UTC] PHP Fatal error:  Can't use method return value in write context in /home/mjcoderscom/public_html/sauce_pan/market/application/models/Db_model.php on line 795
+[01-Sep-2022 09:52:35 UTC] PHP Fatal error:  Can't use method return value in write context in /home/mjcoderscom/public_html/sauce_pan/market/application/models/Db_model.php on line 795
+[01-Sep-2022 09:55:14 UTC] PHP Fatal error:  Can't use method return value in write context in /home/mjcoderscom/public_html/sauce_pan/market/application/models/Db_model.php on line 795
+[01-Sep-2022 09:55:37 UTC] PHP Fatal error:  Can't use method return value in write context in /home/mjcoderscom/public_html/sauce_pan/market/application/models/Db_model.php on line 795
+[01-Sep-2022 09:55:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/mjcoderscom/public_html/sauce_pan/market/application/models/Db_model.php on line 795
